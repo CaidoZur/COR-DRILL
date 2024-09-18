@@ -22,3 +22,33 @@ body {
 .sub-title {
     margin-bottom: 20px;
 }
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    width: 80px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.header-text {
+    text-align: center;
+}
+
+.title, .sub-title {
+    margin: 0;
+}
+
+.republic, .city {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+.sub-title {
+    margin-bottom: 20px;
+}
