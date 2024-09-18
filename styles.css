@@ -52,3 +52,13 @@ body {
 .sub-title {
     margin-bottom: 20px;
 }
+
+.student-info {
+    margin-bottom: 20px;
+}
+
+.student-info p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
