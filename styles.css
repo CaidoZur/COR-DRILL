@@ -5,6 +5,13 @@ body {
     background-color: #f4f4f4;
 }
 
+.registration-number {
+    text-align: left;
+    font-size: 14px;
+    margin-top: -10px; 
+    margin-left: 100px; 
+}
+
 .container {
     width: 80%;
     margin: 50px auto;
