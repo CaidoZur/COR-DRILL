@@ -243,3 +243,11 @@ body {
     font-size: 14px;
     margin-top: 20px;
 }
+
+.light-blue-bg {
+    background-color: #add8e6; 
+    text-align: center; 
+    padding: 10px; 
+    font-weight: bold; 
+}
+
