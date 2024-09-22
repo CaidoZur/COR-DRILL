@@ -168,3 +168,44 @@ body {
     text-align: left;
     font-style: italic;
 }
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.assessed-fees, .rules-refund {
+    flex: 1;
+}
+
+.assessed-fees-table, .payment-schedule {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border: 2px solid #ccc; 
+}
+
+.assessed-fees-table th, .assessed-fees-table td,
+.payment-schedule th, .payment-schedule td {
+    border: 2px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+.assessed-fees-table th, .payment-schedule th {
+    background-color: #e0e0e0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.rules-refund ol {
+    padding-left: 20px;
+}
+
+.fees-and-payments {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-top: 20px;
+}
