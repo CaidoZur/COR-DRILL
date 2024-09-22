@@ -209,3 +209,37 @@ body {
     padding: 20px;
     margin-top: 20px;
 }
+
+.official-receipt {
+    margin-top: 20px;
+}
+
+.official-receipt p {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+.approved-by {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.approved-by p {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+.assessed-fees h2, 
+.payment-schedule h2, 
+.rules-refund h2 {
+    text-align: center; 
+}
+
+.keep-certificate {
+    background-color: #add8e6;
+    padding: 10px;
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 14px;
+    margin-top: 20px;
+}
