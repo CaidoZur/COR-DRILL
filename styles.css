@@ -194,7 +194,7 @@ body {
     text-align: left;
 }
 
-.assessed-fees-table th, .payment-schedule th {
+.assessed-fees-table th{
     background-color: #e0e0e0;
     text-align: center;
     font-weight: bold;
